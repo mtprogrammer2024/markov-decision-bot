@@ -127,9 +127,8 @@ It is designed to demonstrate the basic ideas behind:
 - Q-Learning
 - Decision Making
 
-   👤 سازنده
+## سازنده : مهدی طلوعی 
 
-**مهدی طلوعی**
 
 - GitHub: [@mtprogrammer2024](https://github.com/mtprogrammer2024)
 - Email: mt.programmer2024@gmail.com
